@@ -1,0 +1,32 @@
+#container{
+    padding: 26px;
+    margin :0 auto;
+    width:100%;
+
+}
+.input{
+    padding: 16px 14px;
+    width: 75%;
+    border:solid 1px;
+    border-radius: 5%;
+    margin:auto;
+}
+
+#page{
+    display: grid;
+    grid-template-columns: 40% 40%;
+    padding: 30px;
+}
+#form{
+    text-decoration: dashed;
+    margin: 2px 40px;
+    width: 50%;
+    border:  solid 2px;
+    
+}
+.container{
+    display: flex;
+}
+body{
+    overflow: hidden;
+}
